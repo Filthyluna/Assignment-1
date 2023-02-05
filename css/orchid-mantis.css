@@ -1,5 +1,38 @@
 body {
-  font-family: Courier New;
-  background-color: silver;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif New;
+  background-color: rgb(228, 230, 218);
+  background-image: url("../img/orchid-pattern.png") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   text-align: center;
+}
+
+h1{
+  color:rgb(15, 77, 20);
+}
+
+img{
+  height: 20em;
+  padding: 10px;
+  border-radius: 5%;
+}
+
+#orchid-mantis{
+  background-color: rgb(255, 255, 255);
+  border-radius: 5%;
+  padding: 10px;
+  margin: 10px;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+p{
+  text-align: left;
+  margin-right: 10%;
+  margin-left: 10%;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(48, 6, 6);
 }
